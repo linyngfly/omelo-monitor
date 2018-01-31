@@ -9,9 +9,9 @@ Simple, comprehensive monitoring tool for operating-system and process in nodejs
 
 ## Usage
 
-	var monitor = require(pomelo-monitor);
+	let monitor = require(pomelo-monitor);
 
-	var param = {
+	let param = {
 		pid: process.pid,
 		serverId: 'node-1'
 	};

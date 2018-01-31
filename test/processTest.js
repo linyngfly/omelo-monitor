@@ -1,7 +1,7 @@
-var processMonitor = require('../lib/processMonitor');
+let processMonitor = require('../lib/processMonitor');
 
 function test() {
-	var param = {
+	let param = {
 		pid: 4838,
 		serverId: 'auth-server-1'
 	};

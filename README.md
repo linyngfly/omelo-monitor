@@ -5,11 +5,11 @@ Simple, comprehensive monitoring tool for operating-system and process in nodejs
 
 ## Installation
 
-	$ npm install -g pomelo-monitor
+	$ npm install -g omelo-monitor
 
 ## Usage
 
-	let monitor = require(pomelo-monitor);
+	let monitor = require(omelo-monitor);
 
 	let param = {
 		pid: process.pid,

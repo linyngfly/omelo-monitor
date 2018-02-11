@@ -1,6 +1,6 @@
 {
   "name": "omelo-monitor",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "private": false,
   "deprecated": false,
   "description": "`omelo-monitor` is base omelo, support es6 version",
